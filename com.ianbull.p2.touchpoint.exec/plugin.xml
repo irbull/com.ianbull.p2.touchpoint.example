@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.equinox.p2.engine.actions">
+      <action
+            class="com.ianbull.p2.touchpoint.exec.Execute"
+            name="Execute"
+            touchpointType="org.eclipse.equinox.p2.osgi"
+            version="1.0.0">
+      </action>
+   </extension>
+
+</plugin>

@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Exec
+Bundle-SymbolicName: com.ianbull.p2.touchpoint.exec;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.ianbull.p2.touchpoint.exec.Activator
+Bundle-Vendor: IANBULL
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.equinox.p2.engine,
+ org.eclipse.equinox.p2.touchpoint.eclipse
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy

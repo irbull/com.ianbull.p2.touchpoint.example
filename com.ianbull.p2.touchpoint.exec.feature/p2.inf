@@ -1,0 +1,5 @@
+metaRequirements.0.namespace=com.ianbull.p2.touchpoint.exec
+metaRequirements.0.name=Execute
+metaRequirements.0.range=1.0.0
+
+instructions.install = com.ianbull.p2.touchpoint.exec.Execute(program:/Applications/Firefox.app/Contents/MacOS/firefox-bin);

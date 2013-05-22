@@ -1,0 +1,3 @@
+provides.0.namespace=com.ianbull.p2.touchpoint.exec
+provides.0.name=Execute
+provides.0.version=1.0.0
