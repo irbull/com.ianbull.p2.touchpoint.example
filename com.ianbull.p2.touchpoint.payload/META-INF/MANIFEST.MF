@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Payload
+Bundle-SymbolicName: com.ianbull.p2.touchpoint.payload
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: IANBULL
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy

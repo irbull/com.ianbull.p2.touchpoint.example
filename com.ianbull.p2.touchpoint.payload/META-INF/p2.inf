@@ -1,0 +1,11 @@
+metaRequirements.0.namespace=org.eclipse.equinox.p2.iu
+metaRequirements.0.name=com.ianbull.p2.touchpoint.exec
+metaRequirements.0.range=[1,2)
+
+instructions.install = \
+chmod(targetDir:@artifact,targetFile:payload/mail.app/Contents/MacOS/mail,permissions:755);
+
+instructions.install.import= \
+org.eclipse.equinox.p2.touchpoint.eclipse.chmod
+
+instructions.configure = com.ianbull.p2.touchpoint.exec.Execute(artifact:@artifact, program:payload/mail.app/Contents/MacOS/mail);

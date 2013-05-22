@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+repositories/file\:_Users_irbull_Documents_workspace_org.example.mail.product.rcp_target/description=
+repositories/file\:_Users_irbull_Documents_workspace_org.example.mail.product.rcp_target/enabled=true
+repositories/file\:_Users_irbull_Documents_workspace_org.example.mail.product.rcp_target/isSystem=false
+repositories/file\:_Users_irbull_Documents_workspace_org.example.mail.product.rcp_target/name=module-metadata-repository@/Users/irbull/Documents/workspace/org.example.mail.product.rcp/target
+repositories/file\:_Users_irbull_Documents_workspace_org.example.mail.product.rcp_target/provider=
+repositories/file\:_Users_irbull_Documents_workspace_org.example.mail.product.rcp_target/suffix=p2content.xml
+repositories/file\:_Users_irbull_Documents_workspace_org.example.mail.product.rcp_target/type=org.eclipse.tycho.repository.module.ModuleMetadataRepository
+repositories/file\:_Users_irbull_Documents_workspace_org.example.mail.product.rcp_target/uri=file\:/Users/irbull/Documents/workspace/org.example.mail.product.rcp/target/
+repositories/file\:_Users_irbull_Documents_workspace_org.example.mail.product.rcp_target/version=1.0.0
+repositories/file\:_Users_irbull_Documents_workspace_org.example.mail.product.rcp_target_targetPlatformRepository/enabled=true
+repositories/file\:_Users_irbull_Documents_workspace_org.example.mail.product.rcp_target_targetPlatformRepository/isSystem=false
+repositories/file\:_Users_irbull_Documents_workspace_org.example.mail.product.rcp_target_targetPlatformRepository/name=TychoTargetPlatform
+repositories/file\:_Users_irbull_Documents_workspace_org.example.mail.product.rcp_target_targetPlatformRepository/suffix=content.xml
+repositories/file\:_Users_irbull_Documents_workspace_org.example.mail.product.rcp_target_targetPlatformRepository/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/file\:_Users_irbull_Documents_workspace_org.example.mail.product.rcp_target_targetPlatformRepository/uri=file\:/Users/irbull/Documents/workspace/org.example.mail.product.rcp/target/targetPlatformRepository/
+repositories/file\:_Users_irbull_Documents_workspace_org.example.mail.product.rcp_target_targetPlatformRepository/version=0.0.1
